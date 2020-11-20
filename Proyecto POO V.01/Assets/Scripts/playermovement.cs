@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class playermovement : MonoBehaviour
 {
+    public Transform Soldier;
     public float moveSpeed =5f;
     public Rigidbody2D rb;
     Vector2 movement, mousePos;
@@ -22,5 +23,9 @@ public class playermovement : MonoBehaviour
         Vector2 lookDir = mousePos - rb.position;
         float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 90f;
         rb.rotation = angle;
+    }
+    void Push (float pushForce){
+        Rigidbody2D rb = Soldier.GetComponent<Rigidbody2D>();
+        rb.AddForce(-Soldier.up * 10f, ForceMode2D.Impulse);
     }
 }
