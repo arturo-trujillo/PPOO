@@ -32,7 +32,7 @@ public class shootingenem : MonoBehaviour
         if(!timerReached){
             timer +=Time.deltaTime;
         }
-        if(!timerReached && timer > 4){
+        if(!timerReached && timer > 2){
             Shoot(); 
             timer= 0;
             
