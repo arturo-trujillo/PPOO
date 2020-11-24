@@ -7136,6 +7136,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 658380541}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 --- !u!1 &663579577
 GameObject:
   m_ObjectHideFlags: 0
@@ -7271,6 +7272,9 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0279256ccd5989742b7247b7a1dc7ddf, type: 3}
 --- !u!1 &673197017
+=======
+--- !u!1 &607613797
+>>>>>>> 8f9146b12d7fe45c1a3503a3ef412ba0bde6bafb
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
