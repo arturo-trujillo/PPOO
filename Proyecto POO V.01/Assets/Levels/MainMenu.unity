@@ -186,17 +186,134 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114049539065691888, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f1774c4dbfecaf342bd4099ecf0a1ddf,
+        type: 3}
+    - target: {fileID: 114208141391937272, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Estas Listo?
+      objectReference: {fileID: 0}
+    - target: {fileID: 114221996131792988, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: 'EQUIPO 1 '
+      objectReference: {fileID: 0}
+    - target: {fileID: 114263711298867918, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Opciones
+      objectReference: {fileID: 0}
+    - target: {fileID: 114708566844137424, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: v1.1.8
+      objectReference: {fileID: 0}
     - target: {fileID: 114754865640368622, guid: ed022c6eaaa372f498c83d69665e2adc,
         type: 3}
       propertyPath: brightnessEffect
       value: 
       objectReference: {fileID: 980339799}
+    - target: {fileID: 114754865640368622, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: _newGameButtonLevel
+      value: Nivel 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114803030738577818, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Jugar
+      objectReference: {fileID: 0}
+    - target: {fileID: 114835905219775522, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Salir
+      objectReference: {fileID: 0}
+    - target: {fileID: 114870446454015422, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Si
+      objectReference: {fileID: 0}
+    - target: {fileID: 114898506001689132, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 38e44c9024993584bb543d8c6b18fcc9,
+        type: 3}
+    - target: {fileID: 114949505679447900, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_Text
+      value: Elegir Nivel
+      objectReference: {fileID: 0}
     - target: {fileID: 114993341941609502, guid: ed022c6eaaa372f498c83d69665e2adc,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 2bbaa871595971746862df9691ae1742,
         type: 3}
+    - target: {fileID: 224568192995839698, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -365.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568192995839698, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100.000015
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568192995839698, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 403.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224568192995839698, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 542.18567
+      objectReference: {fileID: 0}
+    - target: {fileID: 224732070221972472, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224732070221972472, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 5.4999084
+      objectReference: {fileID: 0}
+    - target: {fileID: 224732070221972472, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0.00012207031
+      objectReference: {fileID: 0}
+    - target: {fileID: 224732070221972472, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 371.21222
+      objectReference: {fileID: 0}
+    - target: {fileID: 224920938803551132, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -465.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 224920938803551132, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100.000015
+      objectReference: {fileID: 0}
+    - target: {fileID: 224920938803551132, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 403.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 224920938803551132, guid: ed022c6eaaa372f498c83d69665e2adc,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 542.143
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed022c6eaaa372f498c83d69665e2adc, type: 3}
 --- !u!114 &384942025 stripped
