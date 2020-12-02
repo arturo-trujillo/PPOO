@@ -39,6 +39,7 @@ public class mainplayer : MonoBehaviour
 	{
 		Instantiate(deathEffect, transform.position, Quaternion.identity);
 		Destroy(gameObject);
+		 Application.LoadLevel("Death");
 	}
 
 
