@@ -9,7 +9,7 @@ public class EndLevelButton1 : MonoBehaviour
    void OnCollisionEnter2D(Collision2D collision){
      if(collision.gameObject.tag == "Player")
       {  
-        Application.LoadLevel("Nivel 2");
+        Application.LoadLevel("InterLv1-2");
 
       } 
     }

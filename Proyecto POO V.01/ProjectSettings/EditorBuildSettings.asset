@@ -17,4 +17,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/Nivel 3.unity
     guid: f01c982fa65285e4e8f3505110698cf5
+  - enabled: 1
+    path: Assets/Levels/Inter1.unity
+    guid: 1baf867657063ed488727a82e456bd18
+  - enabled: 1
+    path: Assets/Levels/InterLv1-2.unity
+    guid: f3b7ac8662a011d40a3b1d376bcb7b13
+  - enabled: 1
+    path: Assets/Levels/InterLv2-3.unity
+    guid: 63c1143e615b6224ba02ea4278ea8b56
+  - enabled: 1
+    path: Assets/Levels/Final1.unity
+    guid: fef46a3a0b4d347419126bed6235a376
+  - enabled: 1
+    path: Assets/Levels/Final2.unity
+    guid: 7d0e289401630db4e9c6373ed840b926
+  - enabled: 1
+    path: Assets/Death.unity
+    guid: b678dbc59a7437749b7bd10680ccf97f
   m_configObjects: {}
